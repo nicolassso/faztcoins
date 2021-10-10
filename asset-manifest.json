@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/faztcoins/static/css/main.06696cd4.chunk.css",
+    "main.js": "/faztcoins/static/js/main.dee8ec38.chunk.js",
+    "main.js.map": "/faztcoins/static/js/main.dee8ec38.chunk.js.map",
+    "runtime-main.js": "/faztcoins/static/js/runtime-main.5e305fe6.js",
+    "runtime-main.js.map": "/faztcoins/static/js/runtime-main.5e305fe6.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/faztcoins/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.aea8749b.chunk.js": "/faztcoins/static/js/2.aea8749b.chunk.js",
+    "static/js/2.aea8749b.chunk.js.map": "/faztcoins/static/js/2.aea8749b.chunk.js.map",
+    "index.html": "/faztcoins/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/faztcoins/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.06696cd4.chunk.css.map": "/faztcoins/static/css/main.06696cd4.chunk.css.map",
+    "static/js/2.aea8749b.chunk.js.LICENSE.txt": "/faztcoins/static/js/2.aea8749b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e305fe6.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.aea8749b.chunk.js",
+    "static/css/main.06696cd4.chunk.css",
+    "static/js/main.dee8ec38.chunk.js"
+  ]
+}
